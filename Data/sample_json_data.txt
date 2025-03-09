@@ -1,0 +1,12 @@
+  {
+    "TransactionID": 3,
+    "Timestamp": "2023-09-27 23:57",
+    "CustomerID": 610846,
+    "Amount": 1531.21,
+    "Location": "Chicago",
+    "CardType": "Discover",
+    "TransactionType": "Withdrawal",
+    "ProductCategory": "Automotive",
+    "Duration": "1:41:06",
+    "Label": "Benign"
+  }
